@@ -3,4 +3,3 @@ Description: Deep learning terminology, English to Korean translation. Words are
 Environment: Window, Jupyter Notebook   
 Prerequisite: in MAKEFILE   
 
-This isn't the perfect version yet.
