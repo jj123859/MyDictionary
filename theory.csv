@@ -1,0 +1,95 @@
+title,url,pdf
+Deep Residual Learning for Image Recognition,https://paperswithcode.com/paper/deep-residual-learning-for-image-recognition,https://arxiv.org/pdf/1512.03385v1.pdf
+Very Deep Convolutional Networks for Large-Scale Image Recognition,https://paperswithcode.com/paper/very-deep-convolutional-networks-for-large,https://arxiv.org/pdf/1409.1556v6.pdf
+MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications,https://paperswithcode.com/paper/mobilenets-efficient-convolutional-neural,https://arxiv.org/pdf/1704.04861v1.pdf
+Densely Connected Convolutional Networks,https://paperswithcode.com/paper/densely-connected-convolutional-networks,https://arxiv.org/pdf/1608.06993v5.pdf
+CSPNet: A New Backbone that can Enhance Learning Capability of CNN,https://paperswithcode.com/paper/cspnet-a-new-backbone-that-can-enhance,https://arxiv.org/pdf/1911.11929v1.pdf
+MobileNetV2: Inverted Residuals and Linear Bottlenecks,https://paperswithcode.com/paper/mobilenetv2-inverted-residuals-and-linear,https://arxiv.org/pdf/1801.04381v4.pdf
+Grad-CAM: Visual Explanations from Deep Networks via Gradient-based Localization,https://paperswithcode.com/paper/grad-cam-visual-explanations-from-deep,https://arxiv.org/pdf/1610.02391v4.pdf
+EfficientNet: Rethinking Model Scaling for Convolutional Neural Networks,https://paperswithcode.com/paper/efficientnet-rethinking-model-scaling-for,https://arxiv.org/pdf/1905.11946v5.pdf
+Rethinking the Inception Architecture for Computer Vision,https://paperswithcode.com/paper/rethinking-the-inception-architecture-for,https://arxiv.org/pdf/1512.00567v3.pdf
+An Image is Worth 16x16 Words: Transformers for Image Recognition at Scale,https://paperswithcode.com/paper/an-image-is-worth-16x16-words-transformers-1,https://arxiv.org/pdf/2010.11929v2.pdf
+Distilling the Knowledge in a Neural Network,https://paperswithcode.com/paper/distilling-the-knowledge-in-a-neural-network,https://arxiv.org/pdf/1503.02531v1.pdf
+Well-Read Students Learn Better: On the Importance of Pre-training Compact Models,https://paperswithcode.com/paper/well-read-students-learn-better-the-impact-of,https://arxiv.org/pdf/1908.08962v2.pdf
+"DistilBERT, a distilled version of BERT: smaller, faster, cheaper and lighter",https://paperswithcode.com/paper/distilbert-a-distilled-version-of-bert,https://arxiv.org/pdf/1910.01108v4.pdf
+FastSpeech 2: Fast and High-Quality End-to-End Text to Speech,https://paperswithcode.com/paper/fastspeech-2-fast-and-high-quality-end-to-end,https://arxiv.org/pdf/2006.04558v6.pdf
+Grad-CAM++: Improved Visual Explanations for Deep Convolutional Networks,https://paperswithcode.com/paper/grad-cam-improved-visual-explanations-for,https://arxiv.org/pdf/1710.11063v3.pdf
+Making Monolingual Sentence Embeddings Multilingual using Knowledge Distillation,https://paperswithcode.com/paper/making-monolingual-sentence-embeddings,https://arxiv.org/pdf/2004.09813v2.pdf
+Sequence-Level Knowledge Distillation,https://paperswithcode.com/paper/sequence-level-knowledge-distillation,https://arxiv.org/pdf/1606.07947v4.pdf
+Paying More Attention to Attention: Improving the Performance of Convolutional Neural Networks via Attention Transfer,https://paperswithcode.com/paper/paying-more-attention-to-attention-improving,https://arxiv.org/pdf/1612.03928v3.pdf
+TinyBERT: Distilling BERT for Natural Language Understanding,https://paperswithcode.com/paper/190910351,https://arxiv.org/pdf/1909.10351v5.pdf
+Network Pruning via Transformable Architecture Search,https://paperswithcode.com/paper/network-pruning-via-transformable,https://arxiv.org/pdf/1905.09717v5.pdf
+Model-Agnostic Meta-Learning for Fast Adaptation of Deep Networks,https://paperswithcode.com/paper/model-agnostic-meta-learning-for-fast,https://arxiv.org/pdf/1703.03400v3.pdf
+Prototypical Networks for Few-shot Learning,https://paperswithcode.com/paper/prototypical-networks-for-few-shot-learning,https://arxiv.org/pdf/1703.05175v2.pdf
+Matching Networks for One Shot Learning,https://paperswithcode.com/paper/matching-networks-for-one-shot-learning,https://arxiv.org/pdf/1606.04080v2.pdf
+Learning Transferable Visual Models From Natural Language Supervision,https://paperswithcode.com/paper/learning-transferable-visual-models-from,https://arxiv.org/pdf/2103.00020v1.pdf
+On First-Order Meta-Learning Algorithms,https://paperswithcode.com/paper/on-first-order-meta-learning-algorithms,https://arxiv.org/pdf/1803.02999v3.pdf
+Meta-Dataset: A Dataset of Datasets for Learning to Learn from Few Examples,https://paperswithcode.com/paper/meta-dataset-a-dataset-of-datasets-for,https://arxiv.org/pdf/1903.03096v4.pdf
+Learning to Compare: Relation Network for Few-Shot Learning,https://paperswithcode.com/paper/learning-to-compare-relation-network-for-few,https://arxiv.org/pdf/1711.06025v2.pdf
+How to train your MAML,https://paperswithcode.com/paper/how-to-train-your-maml,https://arxiv.org/pdf/1810.09502v3.pdf
+Meta-Learning with Differentiable Convex Optimization,https://paperswithcode.com/paper/meta-learning-with-differentiable-convex,https://arxiv.org/pdf/1904.03758v2.pdf
+SimpleShot: Revisiting Nearest-Neighbor Classification for Few-Shot Learning,https://paperswithcode.com/paper/simpleshot-revisiting-nearest-neighbor,https://arxiv.org/pdf/1911.04623v2.pdf
+Deep Anomaly Detection with Outlier Exposure,https://paperswithcode.com/paper/deep-anomaly-detection-with-outlier-exposure,https://arxiv.org/pdf/1812.04606v3.pdf
+Likelihood Ratios for Out-of-Distribution Detection,https://paperswithcode.com/paper/likelihood-ratios-for-out-of-distribution,https://arxiv.org/pdf/1906.02845v2.pdf
+Detecting Out-of-Distribution Examples with In-distribution Examples and Gram Matrices,https://paperswithcode.com/paper/detecting-out-of-distribution-examples-with,https://arxiv.org/pdf/1912.12510v2.pdf
+Hierarchical VAEs Know What They Don't Know,https://paperswithcode.com/paper/hierarchical-vaes-know-what-they-don-t-know,https://arxiv.org/pdf/2102.08248v7.pdf
+Likelihood Regret: An Out-of-Distribution Detection Score For Variational Auto-encoder,https://paperswithcode.com/paper/likelihood-regret-an-out-of-distribution,https://arxiv.org/pdf/2003.02977v3.pdf
+Improved Contrastive Divergence Training of Energy Based Models,https://paperswithcode.com/paper/improved-contrastive-divergence-training-of-1,https://arxiv.org/pdf/2012.01316v4.pdf
+A Simple Fix to Mahalanobis Distance for Improving Near-OOD Detection,https://paperswithcode.com/paper/a-simple-fix-to-mahalanobis-distance-for,https://arxiv.org/pdf/2106.09022v1.pdf
+Input complexity and out-of-distribution detection with likelihood-based generative models,https://paperswithcode.com/paper/input-complexity-and-out-of-distribution,https://arxiv.org/pdf/1909.11480v3.pdf
+Generalized ODIN: Detecting Out-of-distribution Image without Learning from Out-of-distribution Data,https://paperswithcode.com/paper/generalized-odin-detecting-out-of,https://arxiv.org/pdf/2002.11297v2.pdf
+Entropic Out-of-Distribution Detection: Seamless Detection of Unknown Examples,https://paperswithcode.com/paper/neural-networks-out-of-distribution-detection,https://arxiv.org/pdf/2006.04005v3.pdf
+AutoAugment: Learning Augmentation Policies from Data,https://paperswithcode.com/paper/autoaugment-learning-augmentation-policies,https://arxiv.org/pdf/1805.09501v3.pdf
+Training data-efficient image transformers & distillation through attention,https://paperswithcode.com/paper/training-data-efficient-image-transformers,https://arxiv.org/pdf/2012.12877v2.pdf
+ResMLP: Feedforward networks for image classification with data-efficient training,https://paperswithcode.com/paper/resmlp-feedforward-networks-for-image,https://arxiv.org/pdf/2105.03404v2.pdf
+Sharpness-Aware Minimization for Efficiently Improving Generalization,https://paperswithcode.com/paper/sharpness-aware-minimization-for-efficiently-1,https://arxiv.org/pdf/2010.01412v3.pdf
+Transformer in Transformer,https://paperswithcode.com/paper/transformer-in-transformer,https://arxiv.org/pdf/2103.00112v3.pdf
+GPipe: Efficient Training of Giant Neural Networks using Pipeline Parallelism,https://paperswithcode.com/paper/gpipe-efficient-training-of-giant-neural,https://arxiv.org/pdf/1811.06965v5.pdf
+ResNet strikes back: An improved training procedure in timm,https://paperswithcode.com/paper/resnet-strikes-back-an-improved-training,https://arxiv.org/pdf/2110.00476v1.pdf
+Gradient Centralization: A New Optimization Technique for Deep Neural Networks,https://paperswithcode.com/paper/gradient-centralization-a-new-optimization,https://arxiv.org/pdf/2004.01461v2.pdf
+U-Net: Convolutional Networks for Biomedical Image Segmentation,https://paperswithcode.com/paper/u-net-convolutional-networks-for-biomedical,https://arxiv.org/pdf/1505.04597v1.pdf
+Mask R-CNN,https://paperswithcode.com/paper/mask-r-cnn,https://arxiv.org/pdf/1703.06870v3.pdf
+MMDetection: Open MMLab Detection Toolbox and Benchmark,https://paperswithcode.com/paper/mmdetection-open-mmlab-detection-toolbox-and,https://arxiv.org/pdf/1906.07155v1.pdf
+PointNet: Deep Learning on Point Sets for 3D Classification and Segmentation,https://paperswithcode.com/paper/pointnet-deep-learning-on-point-sets-for-3d,https://arxiv.org/pdf/1612.00593v2.pdf
+FCOS: Fully Convolutional One-Stage Object Detection,https://paperswithcode.com/paper/fcos-fully-convolutional-one-stage-object,https://arxiv.org/pdf/1904.01355v5.pdf
+SegNet: A Deep Convolutional Encoder-Decoder Architecture for Image Segmentation,https://paperswithcode.com/paper/segnet-a-deep-convolutional-encoder-decoder,https://arxiv.org/pdf/1511.00561v3.pdf
+Encoder-Decoder with Atrous Separable Convolution for Semantic Image Segmentation,https://paperswithcode.com/paper/encoder-decoder-with-atrous-separable,https://arxiv.org/pdf/1802.02611v3.pdf
+Rethinking Atrous Convolution for Semantic Image Segmentation,https://paperswithcode.com/paper/rethinking-atrous-convolution-for-semantic,https://arxiv.org/pdf/1706.05587v3.pdf
+Brain Tumor Segmentation with Deep Neural Networks,https://paperswithcode.com/paper/brain-tumor-segmentation-with-deep-neural,https://arxiv.org/pdf/1505.03540v3.pdf
+Automatic Brain Tumor Segmentation using Cascaded Anisotropic Convolutional Neural Networks,https://paperswithcode.com/paper/automatic-brain-tumor-segmentation-using-1,https://arxiv.org/pdf/1709.00382v2.pdf
+Brain Tumor Segmentation and Radiomics Survival Prediction: Contribution to the BRATS 2017 Challenge,https://paperswithcode.com/paper/brain-tumor-segmentation-and-radiomics,https://arxiv.org/pdf/1802.10508v1.pdf
+"The KiTS19 Challenge Data: 300 Kidney Tumor Cases with Clinical Context, CT Semantic Segmentations, and Surgical Outcomes",https://paperswithcode.com/paper/the-kits19-challenge-data-300-kidney-tumor,https://arxiv.org/pdf/1904.00445v2.pdf
+3D MRI brain tumor segmentation using autoencoder regularization,https://paperswithcode.com/paper/3d-mri-brain-tumor-segmentation-using,https://arxiv.org/pdf/1810.11654v3.pdf
+The Liver Tumor Segmentation Benchmark (LiTS),https://paperswithcode.com/paper/the-liver-tumor-segmentation-benchmark-lits,https://arxiv.org/pdf/1901.04056v1.pdf
+Automatic Liver and Tumor Segmentation of CT and MRI Volumes using Cascaded Fully Convolutional Neural Networks,https://paperswithcode.com/paper/automatic-liver-and-tumor-segmentation-of-ct,https://arxiv.org/pdf/1702.05970v2.pdf
+MRI Tumor Segmentation with Densely Connected 3D CNN,https://paperswithcode.com/paper/mri-tumor-segmentation-with-densely-connected,https://arxiv.org/pdf/1802.02427v2.pdf
+Autofocus Layer for Semantic Segmentation,https://paperswithcode.com/paper/autofocus-layer-for-semantic-segmentation,https://arxiv.org/pdf/1805.08403v3.pdf
+Association of genomic subtypes of lower-grade gliomas with shape features automatically extracted by a deep learning algorithm,https://paperswithcode.com/paper/association-of-genomic-subtypes-of-lower,https://arxiv.org/pdf/1906.03720v1.pdf
+ResNeSt: Split-Attention Networks,https://paperswithcode.com/paper/resnest-split-attention-networks,https://arxiv.org/pdf/2004.08955v2.pdf
+End-to-End Object Detection with Transformers,https://paperswithcode.com/paper/end-to-end-object-detection-with-transformers,https://arxiv.org/pdf/2005.12872v3.pdf
+SOLOv2: Dynamic and Fast Instance Segmentation,https://paperswithcode.com/paper/solov2-dynamic-faster-and-stronger,https://arxiv.org/pdf/2003.10152v3.pdf
+Panoptic Feature Pyramid Networks,https://paperswithcode.com/paper/panoptic-feature-pyramid-networks,https://arxiv.org/pdf/1901.02446v2.pdf
+ESPNet: Efficient Spatial Pyramid of Dilated Convolutions for Semantic Segmentation,https://paperswithcode.com/paper/espnet-efficient-spatial-pyramid-of-dilated,https://arxiv.org/pdf/1803.06815v3.pdf
+CenterMask : Real-Time Anchor-Free Instance Segmentation,https://paperswithcode.com/paper/centermask-real-time-anchor-free-instance-1,https://arxiv.org/pdf/1911.06667v6.pdf
+Hierarchical Multi-Scale Attention for Semantic Segmentation,https://paperswithcode.com/paper/hierarchical-multi-scale-attention-for,https://arxiv.org/pdf/2005.10821v1.pdf
+PVTv2: Improved Baselines with Pyramid Vision Transformer,https://paperswithcode.com/paper/pvtv2-improved-baselines-with-pyramid-vision,https://arxiv.org/pdf/2106.13797v5.pdf
+"Panoptic-DeepLab: A Simple, Strong, and Fast Baseline for Bottom-Up Panoptic Segmentation",https://paperswithcode.com/paper/panoptic-deeplab-a-simple-strong-and-fast,https://arxiv.org/pdf/1911.10194v3.pdf
+PointNet++: Deep Hierarchical Feature Learning on Point Sets in a Metric Space,https://paperswithcode.com/paper/pointnet-deep-hierarchical-feature-learning,https://arxiv.org/pdf/1706.02413v1.pdf
+SqueezeSeg: Convolutional Neural Nets with Recurrent CRF for Real-Time Road-Object Segmentation from 3D LiDAR Point Cloud,https://paperswithcode.com/paper/squeezeseg-convolutional-neural-nets-with,https://arxiv.org/pdf/1710.07368v1.pdf
+KPConv: Flexible and Deformable Convolution for Point Clouds,https://paperswithcode.com/paper/kpconv-flexible-and-deformable-convolution,https://arxiv.org/pdf/1904.08889v2.pdf
+3D Semantic Segmentation with Submanifold Sparse Convolutional Networks,https://paperswithcode.com/paper/3d-semantic-segmentation-with-submanifold,https://arxiv.org/pdf/1711.10275v1.pdf
+PartNet: A Large-scale Benchmark for Fine-grained and Hierarchical Part-level 3D Object Understanding,https://paperswithcode.com/paper/partnet-a-large-scale-benchmark-for-fine,https://arxiv.org/pdf/1812.02713v1.pdf
+4D Spatio-Temporal ConvNets: Minkowski Convolutional Neural Networks,https://paperswithcode.com/paper/4d-spatio-temporal-convnets-minkowski,https://arxiv.org/pdf/1904.08755v4.pdf
+RandLA-Net: Efficient Semantic Segmentation of Large-Scale Point Clouds,https://paperswithcode.com/paper/191111236,https://arxiv.org/pdf/1911.11236v3.pdf
+"SalsaNext: Fast, Uncertainty-aware Semantic Segmentation of LiDAR Point Clouds for Autonomous Driving",https://paperswithcode.com/paper/salsanext-fast-semantic-segmentation-of-lidar,https://arxiv.org/pdf/2003.03653v3.pdf
+Shape-aware Semi-supervised 3D Semantic Segmentation for Medical Images,https://paperswithcode.com/paper/shape-aware-semi-supervised-3d-semantic,https://arxiv.org/pdf/2007.10732v1.pdf
+Constrained-CNN losses for weakly supervised segmentation,https://paperswithcode.com/paper/constrained-cnn-losses-for-weakly-supervised,https://arxiv.org/pdf/1805.04628v2.pdf
+Weakly Supervised Learning of Instance Segmentation with Inter-pixel Relations,https://paperswithcode.com/paper/weakly-supervised-learning-of-instance,https://arxiv.org/pdf/1904.05044v3.pdf
+Weakly- and Semi-Supervised Learning of a DCNN for Semantic Image Segmentation,https://paperswithcode.com/paper/weakly-and-semi-supervised-learning-of-a-dcnn,https://arxiv.org/pdf/1502.02734v3.pdf
+Puzzle-CAM: Improved localization via matching partial and full features,https://paperswithcode.com/paper/puzzle-cam-improved-localization-via-matching,https://arxiv.org/pdf/2101.11253v4.pdf
+Fully Convolutional Multi-Class Multiple Instance Learning,https://paperswithcode.com/paper/fully-convolutional-multi-class-multiple,https://arxiv.org/pdf/1412.7144v4.pdf
+Learning Pixel-level Semantic Affinity with Image-level Supervision for Weakly Supervised Semantic Segmentation,https://paperswithcode.com/paper/learning-pixel-level-semantic-affinity-with,https://arxiv.org/pdf/1803.10464v2.pdf
+Integral Object Mining via Online Attention Accumulation,https://paperswithcode.com/paper/integral-object-mining-via-online-attention,http://openaccess.thecvf.com/content_ICCV_2019/papers/Jiang_Integral_Object_Mining_via_Online_Attention_Accumulation_ICCV_2019_paper.pdf
+HistoSegNet: Semantic Segmentation of Histological Tissue Type in Whole Slide Images,https://paperswithcode.com/paper/histosegnet-semantic-segmentation-of,http://openaccess.thecvf.com/content_ICCV_2019/papers/Chan_HistoSegNet_Semantic_Segmentation_of_Histological_Tissue_Type_in_Whole_Slide_ICCV_2019_paper.pdf
+Self-supervised Equivariant Attention Mechanism for Weakly Supervised Semantic Segmentation,https://paperswithcode.com/paper/self-supervised-equivariant-attention,https://arxiv.org/pdf/2004.04581v1.pdf
+Mining Cross-Image Semantics for Weakly Supervised Semantic Segmentation,https://paperswithcode.com/paper/mining-cross-image-semantics-for-weakly,https://arxiv.org/pdf/2007.01947v2.pdf
