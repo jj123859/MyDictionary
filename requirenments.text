@@ -1,0 +1,6 @@
+selenium
+webdriver-manager
+pdfminer.six
+scikit-learn
+nltk
+tqdm
