@@ -1,7 +1,4 @@
 # Deep Learning Dictionary
-**굵게**
-_이텔_
-~취소~
 
 Deep Learning Dictinoary는 인공지능 개발자가 딥러닝을 탐구하는 과정에서 잘 모르는 영어 용어가 나오더라도 단어장을 보며 쉽게 이해할 수 있도록 하기 위한 것이다. 딥러닝 관련 영단어를 모르는 단어를 개별로 찾을 필요 없이, 단어장을 보면서 쉽게 이해할 수 있도록 도와준다.
 
@@ -93,6 +90,7 @@ explain_translation()
 ## LICENSE
 
 MIT License
+`/github/license/:user/:repo`
 
 ## 외부 리소스 정보
 
