@@ -52,7 +52,6 @@ section: SoTa 기준을 참고하여 단어를 분류했다.
 ## 코드 설명
 
 
-api documentation
 
 논문 url 수집
 
@@ -68,6 +67,7 @@ get_pdf_url()
 download_pdf(download_path)
 ```
 
+
 다운 받은 pdf의 빈도수를 기준으로 단어 리스트 생성하는 함수
 
 - pdf_to_txt(pdf_file): pdf 변환 함수
@@ -79,6 +79,7 @@ pdf_to_txt(pdf_file)
 pdf_to_txt_with_exception(pdf_file, download_path)
 word_token(txt_path)
 ```
+
 
 단어 뜻 찾는 함수
 
