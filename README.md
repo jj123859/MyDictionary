@@ -90,7 +90,7 @@ explain_translation()
 ## LICENSE
 
 MIT License
-![GitHub](https://img.shields.io/github/license/jj123859/MyDictionary)
+![GitHub](https://img.shields.io/github/license-MIT/jj123859/MyDictionary)
 
 ## 외부 리소스 정보
 
