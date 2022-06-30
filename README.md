@@ -19,8 +19,6 @@ Deep Learning Dictinoary는 인공지능 개발자가 딥러닝을 탐구하는 
 
 ## Getting Started
 
----
-
 파이썬 3.7 가상 환경 설정하기
 
 ```jsx
@@ -44,7 +42,6 @@ pip install -r requirements.txt
 
 ## 결과
 
----
 
 빈도수: 코드와 관련된 논문에 사용된 단어의 총 개수
 
@@ -54,7 +51,6 @@ section: SoTa 기준을 참고하여 단어를 분류했다.
 
 ## 코드 설명
 
----
 
 api documentation
 
@@ -96,12 +92,8 @@ explain_translation()
 
 ## LICENSE
 
----
-
 MIT License
 
 ## 외부 리소스 정보
-
----
 
 arxiv 논문 관련 라이센스는 [arxiv의 라이센스](https://export.arxiv.org/help/license)를 따릅니다.
