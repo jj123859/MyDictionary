@@ -74,6 +74,49 @@ word_token(txt_path)
 ```
 
 
+```python
+def word_token(txt_path):
+    
+    """단어 토큰화, keywords.csv생성
+    txt_path는 pdf를 txt로 변경할 때의 경로이다.
+    txt 파일의 단어들을 토큰화 시키고 불용어를 제거한다. 그 후 stemmer는 snowball로 사용한다
+    FreqDist(word_tokens)으로 단어를 빈도수별로 찾는다."""
+    
+    def get_wordnet_pos(tagged_pos):
+    
+        """단어 품사를 구분하는 함수"""
+        for pos in ['V', 'N', 'J', 'R']:
+            if tagged_pos.startswith(pos):
+                return pos.lower() if pos != 'J' else 'a'
+        return None
+
+    lemm = WordNetLemmatizer()
+    word_txt={}
+
+    for txt_file in tqdm(txt_path):
+        with open(txt_file, encoding='utf-8') as f:
+            txt = f.read().lower().replace('-\n', '')
+
+
+            re_tokenizer = RegexpTokenizer('[a-zA-Z]{2,}')
+            word_tokens = re_tokenizer.tokenize(txt)
+            stop_words = stopwords.words('english')
+            stop_words.append('cid') 
+            word_tokens = [w for w in word_tokens if w not in stop_words]
+            stemmer = SnowballStemmer('english')
+            word_tokens = [stemmer.stem(w) for w in word_tokens]
+
+            word_tokens = pos_tag(word_tokens)
+            word_tokens = [(w, get_wordnet_pos(tag)) for w, tag in word_tokens if get_wordnet_pos(tag) != None]
+            word_tokens = [lemm.lemmatize(word, pos=tag) for word, tag in word_tokens]
+
+            if word_txt.values() == None:
+                for f in FreqDist(word_tokens):
+                    word_txt[f] = txt_file
+                    
+    ```
+
+
 단어 뜻 찾는 함수
 
 - google_search(): 구글로 단어 뜻 검색하는 함수
@@ -83,6 +126,7 @@ word_token(txt_path)
 google_search()
 explain_translation()
 ```
+
 
 ## LICENSE
 
