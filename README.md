@@ -11,7 +11,7 @@ Deep Learning Dictinoary는 인공지능 개발자가 딥러닝을 탐구하는 
 ## 목록
 
 1. [설치 방법](#getting-started)
-2. [결과](https://www.notion.so/README-md-a2b652d2addc4b2082df64ae2b6fb270)
+2. [결과](#결과)
 3. [코드 설명](https://www.notion.so/README-md-a2b652d2addc4b2082df64ae2b6fb270)
 4. [LICENSE](https://www.notion.so/README-md-a2b652d2addc4b2082df64ae2b6fb270)
 5. [외부리소스 정보](https://www.notion.so/README-md-a2b652d2addc4b2082df64ae2b6fb270)
