@@ -90,8 +90,8 @@ explain_translation()
 ## LICENSE
 
 MIT License
-![GitHub](https://img.shields.io/github/license-MIT/jj123859/MyDictionary)
-
+![GitHub](https://img.shields.io/github/license/jj123859/MyDictionary)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 ## 외부 리소스 정보
 
 arxiv 논문 관련 라이센스는 [arxiv의 라이센스](https://export.arxiv.org/help/license)를 따릅니다.
