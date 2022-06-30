@@ -29,11 +29,8 @@ pip install -r requirements.txt
 
 개발 환경 설정을 위해 requirements.txt 파일을 설치한다.
 
-사용 예제
+사용 예제(완성 후 추가 예정)
 
-```python
-.ipynb
-```
 
 ## 결과
 
