@@ -50,7 +50,7 @@ section: SoTa 기준을 참고하여 단어를 분류했다.
 - first_collect_url(), collect_title_url(), get_pdf_url(): 논문 url 크롤링 함수
 - make_classification(): 논문 분류 카테고리 생성 함수
 - download_pdf(download_path): downlead_path에 pdf 자동 다운  함수 : **time.sleep(15초 이상)을 꼭 넣어야한다.**
-  - arxiv는 자동화된 프로그래밍, 대용량 엑세스 등을 거부하기 때문에 잘못하면 arxiv에서 ip가 거부당할 수 있다. 그래서 sleep을 꼭 15초 이상은 넣거나 export.arxiv.org를 이용해야 한다. [arxiv-denied 내용](https://export.arxiv.org/denied.html), [arxiv-robotics](https://export.arxiv.org/robots.txt)
+  - arxiv는 자동화된 프로그래밍, 대용량 엑세스 등을 거부하기 때문에 잘못하면 arxiv에서 ip가 거부당할 수 있다. 그래서 sleep을 꼭 15초 이상은 넣거나 export.arxiv.org를 이용해야 한다. 참고: [arxiv-denied](https://export.arxiv.org/denied.html), [arxiv-robotics](https://export.arxiv.org/robots.txt)
 
 ```python
 first_collect_url()
