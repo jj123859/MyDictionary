@@ -114,7 +114,7 @@ def word_token(txt_path):
                 for f in FreqDist(word_tokens):
                     word_txt[f] = txt_file
                     
-    ```
+```
 
 
 단어 뜻 찾는 함수
