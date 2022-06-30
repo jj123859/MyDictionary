@@ -65,7 +65,7 @@ download_pdf(download_path)
 
 다운 받은 pdf의 빈도수를 기준으로 단어 리스트 생성하는 함수
 
-- pdf_to_txt(pdf_file): pdf 변환 함수
+-pdf_to_txt(pdf_file): pdf 변환 함수
 - pdf_to_txt_with_exception(pdf_file, download_path): pdf 변환 시 오류 제외
 - word_token(txt_path): nltk로 단어 리스트 생성
 
