@@ -5,6 +5,7 @@
 
 Deep Learning Dictinoary는 인공지능 개발자가 딥러닝을 탐구하는 과정에서 잘 모르는 영어 용어가 나오더라도 단어장을 보며 쉽게 이해할 수 있도록 하기 위한 것이다. 딥러닝 관련 영단어를 모르는 단어를 개별로 찾을 필요 없이, 단어장을 보면서 쉽게 이해할 수 있도록 도와준다.
 
+
 (디렉터리 구조)
 (뱃지)
 
@@ -12,23 +13,22 @@ Deep Learning Dictinoary는 인공지능 개발자가 딥러닝을 탐구하는 
 
 1. [설치 방법](#getting-started)
 2. [결과](#결과)
-3. [코드 설명](https://www.notion.so/README-md-a2b652d2addc4b2082df64ae2b6fb270)
-4. [LICENSE](https://www.notion.so/README-md-a2b652d2addc4b2082df64ae2b6fb270)
-5. [외부리소스 정보](https://www.notion.so/README-md-a2b652d2addc4b2082df64ae2b6fb270)
-6. [추가](https://www.notion.so/README-md-a2b652d2addc4b2082df64ae2b6fb270)
+3. [코드 설명](#코드-설명)
+4. [LICENSE](#LICENSE)
+5. [외부리소스 정보](#외부-리소스-정보)
 
 ## Getting Started
 
 파이썬 3.7 가상 환경 설정하기
 
-```jsx
+```python
 conda create -n deep_learning_dictionary python=3.7
 conda activate deep_learning_dictionary
 ```
 
 pip 설치하기
 
-```jsx
+```python
 pip install -r requirements.txt
 ```
 
@@ -36,7 +36,7 @@ pip install -r requirements.txt
 
 사용 예제
 
-```jsx
+```python
 .ipynb
 ```
 
